@@ -1,0 +1,30 @@
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW2\14253024HW2\bin\Debug\14253024HW2.exe.config
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW2\14253024HW2\bin\Debug\14253024HW2.exe
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW2\14253024HW2\bin\Debug\14253024HW2.pdb
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW2\14253024HW2\obj\Debug\14253024HW2.csprojResolveAssemblyReference.cache
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW2\14253024HW2\obj\Debug\14253024HW2.exe
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW2\14253024HW2\obj\Debug\14253024HW2.pdb
+C:\Users\abdullah\Desktop\14253024HW2\14253024HW2\bin\Debug\14253024HW2.exe.config
+C:\Users\abdullah\Desktop\14253024HW2\14253024HW2\obj\Debug\14253024HW2.exe
+C:\Users\abdullah\Desktop\14253024HW2\14253024HW2\obj\Debug\14253024HW2.pdb
+C:\Users\abdullah\Desktop\14253024HW2\14253024HW2\bin\Debug\14253024HW2.exe
+C:\Users\abdullah\Desktop\14253024HW2\14253024HW2\bin\Debug\14253024HW2.pdb
+C:\Users\abdullah\Desktop\14253024HW2\14253024HW2\obj\Debug\14253024HW2.csprojResolveAssemblyReference.cache
+G:\14253024HW2\14253024HW2\bin\Debug\14253024HW2.exe.config
+G:\14253024HW2\14253024HW2\obj\Debug\14253024HW2.exe
+G:\14253024HW2\14253024HW2\obj\Debug\14253024HW2.pdb
+G:\14253024HW2\14253024HW2\bin\Debug\14253024HW2.exe
+G:\14253024HW2\14253024HW2\bin\Debug\14253024HW2.pdb
+G:\14253024HW2\14253024HW2\obj\Debug\14253024HW2.csprojResolveAssemblyReference.cache
+D:\14253024HW2\14253024HW2\bin\Debug\14253024HW2.exe.config
+D:\14253024HW2\14253024HW2\obj\Debug\14253024HW2.exe
+D:\14253024HW2\14253024HW2\obj\Debug\14253024HW2.pdb
+F:\14253024HW2\14253024HW2\bin\Debug\14253024HW2.exe.config
+F:\14253024HW2\14253024HW2\obj\Debug\14253024HW2.exe
+F:\14253024HW2\14253024HW2\obj\Debug\14253024HW2.pdb
+F:\14253024HW2\14253024HW2\bin\Debug\14253024HW2.exe
+F:\14253024HW2\14253024HW2\bin\Debug\14253024HW2.pdb
+F:\14253024HW2\14253024HW2\obj\Debug\14253024HW2.csprojResolveAssemblyReference.cache
+C:\Users\Apo\Desktop\Projects\14253024HW2\14253024HW2\bin\Debug\14253024HW2.exe.config
+C:\Users\Apo\Desktop\Projects\14253024HW2\14253024HW2\obj\Debug\14253024HW2.exe
+C:\Users\Apo\Desktop\Projects\14253024HW2\14253024HW2\obj\Debug\14253024HW2.pdb
