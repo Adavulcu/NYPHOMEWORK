@@ -1,0 +1,30 @@
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW3\14253024HW3\bin\Debug\14253024HW3.exe.config
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW3\14253024HW3\bin\Debug\14253024HW3.exe
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW3\14253024HW3\bin\Debug\14253024HW3.pdb
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW3\14253024HW3\obj\Debug\14253024HW3.csprojResolveAssemblyReference.cache
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW3\14253024HW3\obj\Debug\_14253024HW3.Form1.resources
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW3\14253024HW3\obj\Debug\_14253024HW3.Properties.Resources.resources
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW3\14253024HW3\obj\Debug\14253024HW3.csproj.GenerateResource.Cache
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW3\14253024HW3\obj\Debug\14253024HW3.exe
+C:\Users\abdullah\Desktop\Documents\Visual Studio 2013\Projects\14253024HW3\14253024HW3\obj\Debug\14253024HW3.pdb
+C:\Users\Admin\Desktop\14253024HW3\14253024HW3\bin\Debug\14253024HW3.exe.config
+C:\Users\Admin\Desktop\14253024HW3\14253024HW3\obj\Debug\14253024HW3.exe
+C:\Users\Admin\Desktop\14253024HW3\14253024HW3\obj\Debug\14253024HW3.pdb
+C:\Users\Admin\Desktop\14253024HW3\14253024HW3\bin\Debug\14253024HW3.exe
+C:\Users\Admin\Desktop\14253024HW3\14253024HW3\bin\Debug\14253024HW3.pdb
+C:\Users\Admin\Desktop\14253024HW3\14253024HW3\obj\Debug\14253024HW3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\14253024HW3\14253024HW3\obj\Debug\_14253024HW3.Form1.resources
+C:\Users\Admin\Desktop\14253024HW3\14253024HW3\obj\Debug\_14253024HW3.Properties.Resources.resources
+C:\Users\Admin\Desktop\14253024HW3\14253024HW3\obj\Debug\14253024HW3.csproj.GenerateResource.Cache
+F:\14253024HW3\14253024HW3\bin\Debug\14253024HW3.exe.config
+F:\14253024HW3\14253024HW3\obj\Debug\14253024HW3.exe
+F:\14253024HW3\14253024HW3\obj\Debug\14253024HW3.pdb
+F:\14253024HW3\14253024HW3\bin\Debug\14253024HW3.exe
+F:\14253024HW3\14253024HW3\bin\Debug\14253024HW3.pdb
+F:\14253024HW3\14253024HW3\obj\Debug\14253024HW3.csprojResolveAssemblyReference.cache
+F:\14253024HW3\14253024HW3\obj\Debug\_14253024HW3.Form1.resources
+F:\14253024HW3\14253024HW3\obj\Debug\_14253024HW3.Properties.Resources.resources
+F:\14253024HW3\14253024HW3\obj\Debug\14253024HW3.csproj.GenerateResource.Cache
+C:\Users\Apo\Desktop\Projects\14253024HW3\14253024HW3\bin\Debug\14253024HW3.exe.config
+C:\Users\Apo\Desktop\Projects\14253024HW3\14253024HW3\obj\Debug\14253024HW3.exe
+C:\Users\Apo\Desktop\Projects\14253024HW3\14253024HW3\obj\Debug\14253024HW3.pdb
